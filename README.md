@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drumil23
 - 👀 I’m interested in learning new things happening on the internet
 - 🌱 I’m currently learning compter vision, NPL, ML etc
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on LLMs
 - 📫 How to reach me https://www.instagram.com/druumil/
 
 <!---
