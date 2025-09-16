@@ -1,5 +1,5 @@
 # About Me:
-Pursuing Bachelor of Technology degree (CS/CE Undergrad). <br>
+Pursuing Master of Science in Computer Science (MSCS) from Khoury College of Computer Sciences (Northeastern University - Boston). <br>
 
 
 ## Socials:
